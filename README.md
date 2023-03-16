@@ -1,3 +1,7 @@
+
+PRODUCTION link:
+rails-7-alpha-blog.herokuapp.com
+
 # README
 
 This README would normally document whatever steps are necessary to get the
